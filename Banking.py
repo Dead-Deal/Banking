@@ -73,5 +73,5 @@ while option_1 != 5:
                 with open('pin_code.dat','ab') as fpin:
                     x = {res, pin}
                     pickle.dump(x,fpin)
-                print('CONGRATULATIONS!, Your Account has been CRAETED')
+                print('CONGRATULATIONS!, Your Account has been CREATED')
                 print()
